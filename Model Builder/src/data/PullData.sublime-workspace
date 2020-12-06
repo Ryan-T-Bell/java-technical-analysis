@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getAvailableCells"
+			],
+			[
+				"weight",
+				"weight_and_normalize"
+			],
+			[
+				"str",
+				"str_arr"
+			],
+			[
+				"In",
+				"INFINITY"
+			],
+			[
+				"position",
+				"position_weights"
+			],
+			[
+				"write",
+				"write_weights_to_file"
+			],
+			[
+				"st",
+				"start_iteration"
+			],
+			[
+				"norma",
+				"normalize_max_num"
+			],
+			[
+				"max",
+				"max_num"
+			],
+			[
+				"alpha",
+				"alpha_beta_search"
+			],
+			[
+				"sco",
+				"score_array"
+			],
+			[
+				"action",
+				"action_array"
+			],
+			[
+				"or",
+				"order_actions_with_heuristic"
+			],
+			[
+				"inc",
+				"inc_density"
+			],
+			[
+				"ca",
+				"calc_col_smoothness"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"child",
+				"child_node"
+			],
+			[
+				"is",
+				"is_terminal"
+			],
+			[
+				"can",
+				"canInsert"
+			],
+			[
+				"bfs",
+				"bfs"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"calc",
+				"calculate_manhattan_dist"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"print",
+				"print_configs"
+			],
+			[
+				"BOARD_",
+				"BOARD_TILES"
+			],
+			[
+				"prin",
+				"print_configs"
+			],
+			[
+				"Explored",
+				"ExploredList"
+			],
+			[
+				"text",
+				"text_entry"
+			],
+			[
+				"frontier",
+				"frontier_insert"
+			],
+			[
+				"binary",
+				"binary_search_index_of"
+			],
+			[
+				"elee",
+				"elements"
+			],
+			[
+				"insert",
+				"insert_lower_score_element"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"goal",
+				"goal_test"
+			],
+			[
+				"blank",
+				"blank_index"
+			],
+			[
+				"get_",
+				"get_blank_column"
+			],
+			[
+				"cal",
+				"calculate_RAM_usage"
+			],
+			[
+				"ex",
+				"execution_tracker"
+			],
+			[
+				"new",
+				"new_node"
+			],
+			[
+				"in",
+				"increment_output_variables"
+			],
+			[
+				"est",
+				"est_node_to_goal"
+			],
+			[
+				"Prior",
+				"PriorityQueue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/problem1.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/problem2.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/problem3.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/output3.csv",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/output2.csv",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/output1.csv",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w7_Machine Learning/AI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/WeightOptimizer.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/GameManager.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/Grid.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/log.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/normalization_values.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/weights.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/EvalFunction.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/PlayerAI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/ComputerAI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/w4 - Adversarial Search Project.pdf",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/weight_log.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/output.txt",
+		"/Users/ryanbell/Dropbox/Programming/Java/ANNTS/Model Builder/src/model/Model.java",
+		"/Users/ryanbell/Dropbox/Programming/Java/ANNTS/Model Builder/src/level4_ThresholdConsolidation/ThresholdConsolidation.java",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/execution_tracker.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/puzzle_state.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/puzzle_state.pyc",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/driver.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/EvaluationFunction.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/UtilityFunction.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/BaseAI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/BaseDisplayer.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w4_Adversarial Search and Games/Displayer.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/output.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/depth_first_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/breadth_first_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/priority_queue.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/queue.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/a_star_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/stack.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/hash_table.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/Projects/w2_Uninformed Search/direct_access_table.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/depth_first_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/breadth_first_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/output.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/a_star_search.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/priority_queue.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/puzzle_state.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/queue.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/stack.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/driver.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/explored_list.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/wk 2 - Project Description.pdf",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/execution_tracker.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/TODO.txt",
+		"/Volumes/Camera_BELL/Owner Info.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/wk 4 - Project Description.pdf",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/question_data.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/TODO.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/BaseDisplayer.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/ComputerAI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/Displayer.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/GameManager.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/Grid.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/BaseAI.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/BaseAI_3.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/data/Test Course/CH1/1.1/question.txt",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/course_data.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/user_data.py",
+		"/C/Users/Ryan/gold.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/gold/gold.py",
+		"/C/Users/Ryan/Downloads/gold_physical.py",
+		"/C/Users/Ryan/Downloads/get-pip.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/start_page.py",
+		"/C/Users/Ryan/get-pip.py",
+		"/C/Users/Ryan/__init__.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/ui/gui.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/ui/ui_settings.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/ui/start_page.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/quizr/ui/start.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/flashcard/gui.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/flashcard/flashcard_gui.py",
+		"/C/Users/Ryan/Dropbox/Programming/Python/flashcard/__init__.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/READ ME.txt",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/write_output_file.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/w2_Uninformed Search/__init__.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures_and_algorithms/a_star_search.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures_and_algorithms/uniform_cost_search.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/priority_queue.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/queue.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/stack.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/breadth_first_search.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/__init__.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/data_structures/fifo_queue.py",
+		"/Users/ryanbell/Dropbox/Programming/Python/queue.py",
+		"/Users/ryanbell/Dropbox/School/Artificial Intelligence/p1_Cube Search State/driver.py",
+		"/Users/ryanbell/Downloads/Week 2 Assignment Skeleton Code/driver.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PullData.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/School/Artificial Intelligence/w4_Adversarial Search and Games/__init__.sublime-workspace"
+			]
+		],
+		"width": 674.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
